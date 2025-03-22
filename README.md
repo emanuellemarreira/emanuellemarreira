@@ -1,5 +1,6 @@
-### Olá 👋
-Meu nome é Emanuelle, mas pode me chamar de Manu :) Sou Técnica em Informática pelo IFAM e atualmente curso Engenharia da Computação na UEA (6/10)
-- 🔭 Atualmente estou trabalhando com projetos de pesquisa e desenvolvimento 
-- 🌱 Atualmente estou aprendendo desenvolvimento web backend com spring boot e Processamento de Linguagem Natural com Machine Learning
-- 👯 Tecnologias e atuações: C, C++, Java, Python, Testes manuais de software, Banco de Dados (PostgreSQL e MySQL)
+### Hello! 👋
+My name is Emanuelle, but you can call me Manu :) I'm an IT Technician from IFAM, and I'm currently studying Computer Engineering at UEA (7/10).
+- 🔭  I'm currently working on Research and Development Projects in the field of AI.
+- 🌱  I work with backend web development using Spring and conduct research in Natural Language Processing with Machine Learning at the Intelligent Systems Laboratory - UEA.
+- 🎯  I'm currently learning Data Analysis and Neural Networks.
+- 👯  Technologies: C, C++, Java, Databases (PostgreSQL and MySQL), Python & Pandas & Scikit-Learn
